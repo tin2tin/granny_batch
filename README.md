@@ -7,8 +7,9 @@ Please ensure that paths are absolute, by opening the sidebat of the File Browse
 
 What it does:
 - The script will open each fbx files in a folder into a new scene.
-- Place all objects on grid centered. 
+- Place all objects on grid centered(while keeping offsets). 
 - Add an empty with the name of the fbx file.
-- Parent the objects to the empty.
-- Save the scene to the output path.
+- Parent the 3d objects to the empty.
+- Save the scene to the output path as fbx.
 - Close the new scene.
+- Repeat.
