@@ -1,2 +1,2 @@
-# granny_batch
+# Granny Batch
 Batch convert a folder of fbx into a new folder of granny friendly fbx files.
